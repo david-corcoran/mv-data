@@ -3,7 +3,10 @@
 	"bar": "Bar",
 	"root": [
 		{
-			"email": "one@tontoma"
+			"email": "one@tontomata"
+		},
+		{
+			"email": null
 		}
 	]
 }
