@@ -4,7 +4,9 @@
 	"root": [
 		{
 			"gleeb[$index]": "bell@wea",
-			"zum": []
+			"zum": [
+				"k"
+			]
 		},
 		{
 			"email": "one@tontomata",
