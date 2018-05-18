@@ -3,7 +3,8 @@
 	"bar": "Bar",
 	"root": [
 		{
-			"gleeb[$index]": "bell@wea"
+			"gleeb[$index]": "bell@wea",
+			"zum": []
 		},
 		{
 			"email": "one@tontomata",
